@@ -1,1 +1,1 @@
-Device alert: offline-feature
+Device alert: offline-gd
