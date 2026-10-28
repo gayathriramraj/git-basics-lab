@@ -1,1 +1,1 @@
-Device alert: offline-gd
+Device alert: offline -Updated by mogili
